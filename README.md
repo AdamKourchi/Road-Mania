@@ -11,9 +11,9 @@ This project helped me strengthen my understanding of **game loops**, **real-tim
 
 ## 🖼️ Preview
 
-| ![Main Screenshot](projects/car-game.webp) | ![Screenshot 1](projects/car-game1.webp) |
+| ![Main Screenshot](screenshots/car-game.webp) | ![Screenshot 1](screenshots/car-game1.webp) |
 |---------------------------------------------|------------------------------------------|
-| ![Screenshot 2](projects/car-game2.webp)   |                                          |
+| ![Screenshot 2](screenshots/car-game2.webp)   |                                          |
 
 ---
 
